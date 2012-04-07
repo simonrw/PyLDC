@@ -1,4 +1,4 @@
-from LDC import PyLDC
+from PyLDC.LDC import PyLDC
 import os.path
 import numpy as np
 
