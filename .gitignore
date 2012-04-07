@@ -1,2 +1,5 @@
 testing/__pycache__
 *.pyc
+LDC.cpp
+LDC.so
+build
