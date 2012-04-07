@@ -1,0 +1,4 @@
+# Limb darkening parser
+
+Using the Claret (2000) coefficients the python code creates a parser object and allows calculation of the limb darkening coefficients. 
+
